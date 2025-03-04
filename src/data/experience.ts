@@ -6,28 +6,28 @@ const PAST_ROLES: {
   endDate: string
 }[] = [
   {
-    company: 'ACME Solutions',
-    role: 'CEO',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam vel hic aspernatur molestiae exercitationem rerum reiciendis mollitia magnam harum ipsum?',
-    startDate: 'March 2023',
-    endDate: 'Now',
-  },
-  {
-    company: 'Google',
+    company: 'Mekari',
     role: 'Software Engineer',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam vel hic aspernatur molestiae exercitationem rerum reiciendis mollitia magnam harum ipsum?',
+      'Responsible for maintaining the user interface, seamlessly integrating third-party vendors, and actively involved in developing new features for Mekari Talenta.',
+    startDate: 'Oct 2021',
+    endDate: 'Feb 2025',
+  },
+  {
+    company: 'PT Indie Marketindo Ceria',
+    role: 'Software Engineer (Frontend)',
+    description:
+      'Building IndieMarketFest storefront and seller management system.',
     startDate: 'April 2021',
     endDate: 'March 2023',
   },
   {
-    company: 'Vercel',
-    role: 'Developer Advocate',
+    company: 'TRYS',
+    role: 'Web Developer',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam vel hic aspernatur molestiae exercitationem rerum reiciendis mollitia magnam harum ipsum?',
-    startDate: 'April 2021',
-    endDate: 'June 2018',
+      'Involved in creating company profile websites. Contributed to TRYS extensive brand portfolio, which includes well-names like Wuling, Telon Lang, and So Good.',
+    startDate: 'May 2016',
+    endDate: 'Oct 2018',
   },
 ]
 

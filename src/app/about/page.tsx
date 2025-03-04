@@ -8,10 +8,7 @@ export default function About() {
 
       <div className="mb-10 text-base sm:text-lg">
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Est
-          consequatur, harum pariatur provident rerum placeat magni voluptas
-          consectetur in exercitationem nobis aut, molestiae iure possimus
-          aspernatur nesciunt laudantium ab atque.
+        Software Engineer at Mekari with 8 years of experience, specializing in creating beautiful, fast, and scalable website user experiences. Experienced in building single-page applications using Vue.js and React.js. Skilled in driving product development in fast-paced startup environments, delivering solutions that scale as businesses grow. Adept at collaborating with cross-functional teams to build and launch MVPs quickly, while ensuring future scalability and performance
         </p>
       </div>
 
