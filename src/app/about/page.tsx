@@ -1,4 +1,3 @@
-import Experience from '@/components/sections/experience'
 import Skills from '@/components/sections/skills'
 
 export default function About() {
@@ -8,13 +7,14 @@ export default function About() {
 
       <div className="mb-10 text-base sm:text-lg">
         <p>
-        Software Engineer at Mekari with 8 years of experience, specializing in creating beautiful, fast, and scalable website user experiences. Experienced in building single-page applications using Vue.js and React.js. Skilled in driving product development in fast-paced startup environments, delivering solutions that scale as businesses grow. Adept at collaborating with cross-functional teams to build and launch MVPs quickly, while ensuring future scalability and performance
+          Software Engineer at Mekari with 9 years of experience, specializing
+          in creating beautiful, fast, and scalable website user experiences.
+          Experienced in building single-page applications using Vue.js and
+          React.js.
         </p>
       </div>
 
       <Skills />
-
-      <Experience />
     </div>
   )
 }

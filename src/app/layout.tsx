@@ -8,7 +8,7 @@ import { ThemeProvider } from '@/components/theme-provider'
 const montserrat = Montserrat({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Ganesha Ampuh - SWE',
+  title: 'Ganesha Ampuh - Software Engineer',
 }
 
 export default function RootLayout({

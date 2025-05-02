@@ -1,29 +1,28 @@
 import Links from '@/components/links'
+import Experience from '@/components/sections/experience'
 
 export default function Home() {
   return (
     <div className="font-base">
       <h1 className="text-2xl font-heading sm:text-4xl">Ganesha Ampuh</h1>
-      <p className="mt-2 text-lg sm:text-xl">Software Engineer - Frontend</p>
-      <div className="mt-8 text-base sm:text-lg">
+      <p className="mt-2 text-lg sm:text-xl">Senior Frontend Engineer</p>
+      <div className="mt-5 text-base sm:text-lg">
         <p>
-          Hi! I`m Ganesha from Indonesia. 
+          I craft engaging digital experiences, turning visionary concepts into functional and impactful realities through thoughtful code. 
         </p>
-
-        <br />
-
         <p>
-          I am a software engineer with over 8 years of experience. I use often use Vue.js stack for development process to delivery user-oriented application. My skills have been honed through years of practical experience, and I am always eager to take on new challenges and develop further.
+          I am available for contact via phone or email.
         </p>
-
-        <br />
-
-        <p>
-          I am available for contact via phone or email. Let&apos;s Discuss!
+        <p className="mt-5">
+          Let&apos;s Discuss!
         </p>
       </div>
 
       <Links />
+
+      <hr className="mt-10 border-border dark:border-darkBorder" />
+
+      <Experience />
     </div>
   )
 }
