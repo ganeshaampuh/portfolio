@@ -14,9 +14,7 @@ export default function Experience() {
             <p className="mb-4 mt-0.5 text-sm">
               {role.startDate} - {role.endDate}
             </p>
-            <p>
-              {role.description}
-            </p>
+            <p className="mb-4">{role.description}</p>
             <ul className="list-disc pl-5">
               {role.achievements.map((achievement, id) => (
                 <li key={id}>{achievement}</li>

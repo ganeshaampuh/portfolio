@@ -2,7 +2,8 @@ import {
   IconType,
   SiGithub,
   SiLinkedin,
-  SiWhatsapp
+  SiWhatsapp,
+  SiGmail
 } from '@icons-pack/react-simple-icons'
 
 export default function Links() {
@@ -18,6 +19,10 @@ export default function Links() {
     {
       icon: SiWhatsapp,
       href: 'https://wa.me/6285155001131',
+    },
+    {
+      icon: SiGmail,
+      href: 'mailto:ganeshaampuh@gmail.com',
     },
   ]
 
